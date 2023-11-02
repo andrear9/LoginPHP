@@ -1,0 +1,3 @@
+[30-Oct-2023 07:24:38 UTC] PHP Warning:  Undefined array key "REQUEST_METHOD" in /opt/lampp/htdocs/Login/Login_php/index.php on line 20
+[30-Oct-2023 07:24:38 UTC] PHP Stack trace:
+[30-Oct-2023 07:24:38 UTC] PHP   1. {main}() /opt/lampp/htdocs/Login/Login_php/index.php:0
